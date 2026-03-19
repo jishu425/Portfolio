@@ -57,15 +57,13 @@ A voice-based assistant supporting multiple Indian languages to store and recall
 ---
 
 
-## ✨ Features
+## ⚙️ Installation & Setup
 
-- Responsive design (mobile-friendly)  
-- Clean and modern UI  
-- Project showcase  
-- Contact section  
+Run the following commands step-by-step:
 
----
-
-## 📌 Note
-
-This portfolio is continuously updated as I learn and grow in my development journey.
+```bash
+git clone https://github.com/jishu425/Portfolio.git
+cd Portfolio
+npx pnpm -v
+npx pnpm install
+npx pnpm exec vite
